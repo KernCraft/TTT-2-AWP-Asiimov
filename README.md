@@ -8,5 +8,7 @@ Materials and Sources for this addon are: https://gamebanana.com/mods/211207
 The file ttt_2_awp_asiimov_fixed contains the finished source of the addon and the fixed worldmodels.
 The original addon is from here: https://steamcommunity.com/sharedfiles/filedetails/?id=674499301
 
+Tip: When you are compiling Worldmodels I would recommend the program Crowbar.
+
 Thanks for reading.
 Feel free to use the source code
